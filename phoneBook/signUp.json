@@ -1,0 +1,125 @@
+[
+    {
+        "firstName": "ramesh",
+        "password": "siri.7788",
+        "email": "inumularamesh@gmail.com",
+        "phoneBook": [
+            {
+                "firstname": "jack",
+                "lastname": "o",
+                "number": 8819983663
+            },
+            {
+                "firstname": "raj",
+                "lastname": "k",
+                "number": 9981123667
+            }
+        ]
+    },
+    {
+        "firstName": "Bhaskar",
+        "email": "bhadivenkatagalla@gmail.com",
+        "password": "Bhaskar.7788",
+        "phoneBook": []
+    },
+    {
+        "firstName": "shakar",
+        "email": "shakarbuchii@gmail.com",
+        "password": "shakar.7788",
+        "phoneBook": []
+    },
+    {
+        "firstName": "vivek",
+        "email": "vivek@123gmail.com",
+        "password": "siri.7788",
+        "phoneBook": []
+    },
+    {
+        "firstName": "ramesh19",
+        "email": "ramesh19@gmail.com",
+        "password": "siri.7788",
+        "phoneBook": []
+    },
+    {
+        "firstName": "ramesh143",
+        "email": "ramesh1432@gmail.com",
+        "password": "siri.7788",
+        "phoneBook": []
+    },
+    {
+        "firstName": "Ramesh1234",
+        "email": "RameshJaanu@gmail.com",
+        "password": "siri.7788",
+        "phoneBook": [
+            {
+                "firstname": "laxmi",
+                "lastname": "g",
+                "number": 9688778134
+            },
+            {
+                "firstname": "heki",
+                "lastname": "h",
+                "number": 8871997392
+            }
+        ]
+    },
+    {
+        "firstName": "banner",
+        "email": "banner@gmail.com",
+        "password": "12345678",
+        "phoneBook": [
+            {
+                "firstname": "hello",
+                "lastname": "ex",
+                "number": 2349985241
+            }
+        ]
+    },
+    {
+        "firstName": "vishal",
+        "email": "vishal123@gmail.com",
+        "password": "vishal.88",
+        "phoneBook": [
+            {
+                "firstname": "as",
+                "lastname": "f",
+                "number": 2328982341
+            }
+        ]
+    },
+    {
+        "firstName": "RameshJs",
+        "email": "RameshJs@143gmail.com",
+        "password": "siri.7788",
+        "phoneBook": [
+            {
+                "firstname": "jessi",
+                "lastname": "h",
+                "number": 9908807656
+            },
+            {
+                "firstname": "tejaswi",
+                "lastname": "k",
+                "number": 7783366815
+            }
+        ]
+    },
+    {
+        "firstName": "jaan",
+        "email": "JaanRAm@gmail.com",
+        "password": "siri.7788",
+        "phoneBook": []
+    },
+    {
+        "firstName": "Siri",
+        "email": "siri.7788@gmail.com",
+        "password": "siri.7788",
+        "phoneBook": [
+            {
+                "firstname": "teju",
+                "lastname": "h",
+                "number": 9986654125
+            }
+        ]
+    }
+]
