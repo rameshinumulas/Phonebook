@@ -1,0 +1,28 @@
+/* div.App{
+    background-color:rgba(237, 241, 241, 0.979); 
+    text-align: center;
+    height:630px;
+    margin-bottom: 50px;
+    height: 1000;
+  } 
+  .card1{
+    padding: 10px; 
+    margin-left: 500px; 
+    width: 400px;
+    height: 400px;
+    flex-flow: initial;
+  } */
+
+
+  .line{
+    margin: 20px 16px;
+    margin-top: 20px;
+    margin-right: 16px;
+    margin-bottom: 20px;
+    margin-left: 16px;
+  }
+
+  .contact-div{
+    margin-left: 500;
+    margin-right: 500;
+  }
